@@ -1,0 +1,2 @@
+Hi there! 👋
+Welcome to my GitHub! I'm passionate about creating visually stunning and interactive web projects. My focus is on blending aesthetics with functionality, as you can see in my latest project—a 3D Card Showcase built using HTML and CSS, featuring hover effects and smooth transitions. I'm constantly exploring new front-end techniques to enhance user experience and take web design to the next level. Feel free to explore my repositories and check out what I've been working on!
